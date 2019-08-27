@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/queen-pawn-puzzle/precache-manifest.9e9bc6a1e4e8484178c257b0a7f1bf48.js"
+  "/queen-pawn-puzzle/precache-manifest.6f0ac1240da6e0e63b771b77010b0813.js"
 );
 
 workbox.clientsClaim();

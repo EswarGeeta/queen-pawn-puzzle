@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/queen-pawn-puzzle/static/css/main.7ff3bb8e.chunk.css"
   },
   {
-    "revision": "e3ddbb8650da909de09a1d0c93b5b79c",
+    "revision": "84621d1923ac78d9bb8015108b67af35",
     "url": "/queen-pawn-puzzle/index.html"
   }
 ];
