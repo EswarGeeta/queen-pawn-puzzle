@@ -1,0 +1,9 @@
+.coin {
+    height: 6vw;
+    width: 6vw;
+    padding-top: 1vw;
+}
+
+.coin img {
+    height: 4vw;
+}

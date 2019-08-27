@@ -1,0 +1,13 @@
+.square {
+    width: 6vw;
+    height: 6vw;
+    padding: 0px;
+}
+
+.light {
+    background-color: #769656;
+}
+
+.dark {
+    background-color: #eeeed2;
+}
