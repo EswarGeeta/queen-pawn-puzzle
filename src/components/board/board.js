@@ -38,7 +38,6 @@ class Board extends Component {
     }
 
     onDropHandler = (x, y) => {
-        debugger;
         const oldX = this.oldX;
         const oldY = this.oldY;
         if (oldX === 100 && x === 100) {
