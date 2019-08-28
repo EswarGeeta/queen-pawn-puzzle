@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/queen-pawn-puzzle/static/js/runtime~main.11c759a0.js"
   },
   {
-    "revision": "512c16cf9912dad489e0",
-    "url": "/queen-pawn-puzzle/static/js/main.512c16cf.chunk.js"
+    "revision": "9053e4e231229096adce",
+    "url": "/queen-pawn-puzzle/static/js/main.9053e4e2.chunk.js"
   },
   {
     "revision": "3ae6abf5d7721c9b91c5",
     "url": "/queen-pawn-puzzle/static/js/1.3ae6abf5.chunk.js"
   },
   {
-    "revision": "512c16cf9912dad489e0",
+    "revision": "9053e4e231229096adce",
     "url": "/queen-pawn-puzzle/static/css/main.7ff3bb8e.chunk.css"
   },
   {
-    "revision": "84621d1923ac78d9bb8015108b67af35",
+    "revision": "464bfc088431a1cc5c0ad56f2c63618e",
     "url": "/queen-pawn-puzzle/index.html"
   }
 ];

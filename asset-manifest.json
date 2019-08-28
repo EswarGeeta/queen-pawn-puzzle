@@ -1,7 +1,7 @@
 {
   "main.css": "/queen-pawn-puzzle/static/css/main.7ff3bb8e.chunk.css",
-  "main.js": "/queen-pawn-puzzle/static/js/main.512c16cf.chunk.js",
-  "main.js.map": "/queen-pawn-puzzle/static/js/main.512c16cf.chunk.js.map",
+  "main.js": "/queen-pawn-puzzle/static/js/main.9053e4e2.chunk.js",
+  "main.js.map": "/queen-pawn-puzzle/static/js/main.9053e4e2.chunk.js.map",
   "static/js/1.3ae6abf5.chunk.js": "/queen-pawn-puzzle/static/js/1.3ae6abf5.chunk.js",
   "static/js/1.3ae6abf5.chunk.js.map": "/queen-pawn-puzzle/static/js/1.3ae6abf5.chunk.js.map",
   "runtime~main.js": "/queen-pawn-puzzle/static/js/runtime~main.11c759a0.js",
@@ -9,6 +9,6 @@
   "static/css/main.7ff3bb8e.chunk.css.map": "/queen-pawn-puzzle/static/css/main.7ff3bb8e.chunk.css.map",
   "static/media/index.less": "/queen-pawn-puzzle/static/media/index.e6e4b102.less",
   "index.html": "/queen-pawn-puzzle/index.html",
-  "precache-manifest.6f0ac1240da6e0e63b771b77010b0813.js": "/queen-pawn-puzzle/precache-manifest.6f0ac1240da6e0e63b771b77010b0813.js",
+  "precache-manifest.bda69015222cf850676199e8d4bf25fd.js": "/queen-pawn-puzzle/precache-manifest.bda69015222cf850676199e8d4bf25fd.js",
   "service-worker.js": "/queen-pawn-puzzle/service-worker.js"
 }
